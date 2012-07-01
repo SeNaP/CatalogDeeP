@@ -1,16 +1,14 @@
-NJSI(node.Js+Socket.IO) Chat
+CatalogDeeP
 ===
 
-This is my first project on JavaScript language whether using express framework and templating jade 
+### This is script written 2 years ago :)
 
-Run: node app.js
-===
-
-### Settings in file app.js
-    var settings = {
-       title: 'Title in chat',
-       bot_name: 'The name of the boat, from which sends a chat message'
-    } 
+### Install
+    1. Unpack archive in directory /
+	2. Upload the database table from file /cat.sql
+	3. Set configure database in the file /init/db.config.php
+	4. Open page http://host/admin.php (password: admin; login: admin)
+	5. Edit admin settings in table cat_system (login and password)
 ### DIR:
-    /templates/ - directory of the templates (template Jade)
-    /public/    - directory of the public files (css, js, images, etc files)
+    /init/ 			- directory of the system files
+    /templates/    	- directory of the template files (templating Smarty)
