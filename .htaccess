@@ -1,0 +1,12 @@
+AddDefaultCharset UTF-8
+
+php_flag display_errors 1
+php_value register_globals 0
+php_value magic_quotes_gpc 0
+php_value magic_quotes_runtime 0
+php_value magic_quotes_sybase 0 
+php_value allow_url_fopen 0
+
+<Files "*.tpl"> 
+  deny from all 
+</Files> 

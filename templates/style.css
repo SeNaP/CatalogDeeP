@@ -1,0 +1,142 @@
+body {
+	font-family: Tahoma;
+	color: #94ac3b;
+	margin: 0px;
+	font-size: 11px;
+}
+
+a:link, a:active, a:visited {
+	color: #91b208;
+}
+a:hover {
+	color: #a6c621;
+}
+
+.main {
+	background: url(images/log.gif) #9fb83c;
+	color: #f6ffce;
+}
+
+.main_r {
+	background: url(images/main_r.gif) repeat-x top #fbffeb;
+	padding: 2px 3px;
+}
+.main_r a{
+	color: #99b138;
+	font-weight: bold;
+	text-decoration: underline;
+}
+.main_r a:hover{
+	color: #99b138;
+	text-decoration: none;
+}
+.blog {
+	border-top: 1px dotted #b0cc42;
+	
+}
+.title {
+	background: url(images/title.gif) repeat-x top #e2f4a8;
+	padding: 2px 1px 3px 4px;
+	border-top: 1px dotted #b0cc42;
+	border-bottom: 1px dotted #b0cc42;
+	color: #a3bb44;
+}
+.title a{
+	color: #95b02d;
+	font-weight: bold;
+	text-decoration: underline;
+}
+.title a:hover{
+	color: #a1bc3a;
+}
+
+span.title_s {
+	font-weight: bold;
+}
+
+.menu {
+	background: url(images/menu.gif) repeat-x bottom #fbffeb;
+	padding: 3px 2px 4px 4px;
+	border-bottom: 1px dotted #d6e0b1;
+}
+span.menu_s {
+	color: #bfc992;
+	font-size: 10px;
+}
+.menu a{
+	color: #a2bb40;
+	text-decoration: underline;
+	font-weight: bold;
+}
+.menu a:hover{
+	color: #b2ca54;
+}
+
+.rmenu {
+	background: #F5E9EB;
+	border: 1px solid #E2C0C7;
+	margin: 1px 0px;
+	padding: 4px;
+}
+
+.load {
+	padding: 1px 1px 2px 3px;
+	border-bottom: 1px dotted #ecf4cc;
+}
+.load a{
+	font-weight: bold;
+	text-decoration: underline;
+	color: #a2bb40;
+}
+span.load_s {
+	color: #cfea6f;
+}
+span.load_n {
+	color: #ff0000;
+}
+
+.niz {
+	background: url(images/niz.gif) repeat-x top #d3e97f;
+	font-weight: bold;
+	padding: 2px 0px 3px 4px;
+	color: #7d9326;
+}
+
+.niz_s {
+	background: url(images/niz_s.gif) repeat-x top #fefffa;
+	border-top: 1px dotted #d6e0b1;
+}
+
+.niz_a {
+	padding: 1px 0px 2px 4px;
+	color: #92a73d;
+	border-bottom: 1px dotted #ecf6c3;
+}
+.niz_a a{
+	color: #91b208;
+	text-decoration: none;
+}
+.niz_a a:hover{
+	color: #a6c621;
+}
+
+.bottom {
+	background: url(images/bottom.gif) repeat-x top #acc44c;
+	border-bottom: 1px solid #8ba131;
+	color: #faffe8;
+	padding: 2px 2px 4px 3px;
+}
+.bottom a{
+	color: #e2f3a7;
+	text-decoration: none;
+}
+.bottom a:hover{
+	color: #faffe8;
+	text-decoration: underline;
+}
+
+.bottom_s {
+	background: url(images/bottom_s.gif) repeat-x top #fff;
+	padding-top: 1px;
+	margin-top: 1px;
+}
