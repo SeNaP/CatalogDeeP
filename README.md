@@ -1,8 +1,6 @@
 CatalogDeeP
 ===
 
-### This is script written 2 years ago :)
-
 ### Install
     1. Unpack archive in directory /
 	2. Upload the database table from file /cat.sql
