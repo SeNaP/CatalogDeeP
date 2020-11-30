@@ -1,0 +1,5 @@
+{
+  "require": {
+    "algo26-matthias/idna-convert": "2.*",
+  }
+}
